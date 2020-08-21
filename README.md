@@ -1,0 +1,2 @@
+# StatisticsUM
+Statistics with Python
